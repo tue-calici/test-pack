@@ -1,0 +1,7 @@
+# default
+pathvalidate
+jsonschema
+colorama
+wget
+clint
+beautifulsoup4
